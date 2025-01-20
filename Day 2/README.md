@@ -1,3 +1,5 @@
+# Day 2
+
 # Java Operators and User Input
 
 ## Overview
